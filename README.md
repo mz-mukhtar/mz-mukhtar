@@ -40,7 +40,7 @@ Hardware:     Arduino | Logic ICs | Sensors | Breadboard & Components
 
     🔒 Cyber Vanguard: cybervanguard.club@aait.edu.et
 
-    💬 Telegram: @mahi_zeki
+    💬 Telegram: https://t.me/Mahi_Zeki
 
     🐦 X (Twitter): @MahiZeki
 
