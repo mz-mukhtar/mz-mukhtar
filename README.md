@@ -6,15 +6,23 @@ Welcome to my official GitHub portfolio repository! I'm **Mahi Zeki**, an aspiri
 
 ## 🚀 About Me
 
-🎓 **Electrical and Computer Engineering** student at **CTBE – Addis Ababa University**
+I’m Mahi Zeki — a driven technologist, aspiring cybersecurity expert, and builder of secure, impactful solutions. I’m committed to empowering local innovation and driving Ethiopia’s digital transformation.
 
-🔐 **Founder & President** of [Cyber Vanguard](https://www.cybervanguard.club.et) – a university-based cybersecurity club that trains and inspires students through Capture The Flag (CTF) competitions, seminars, and hands-on labs.
+🎓 Student: Electrical & Computer Engineering @ CTBE, Addis Ababa University
 
-🛠️ Passionate about:
-- Full-stack development (HTML, CSS, JS, Python, PHP)
-- Cybersecurity (Ethical Hacking, picoCTF, secure networking)
-- Embedded systems and electronics (Arduino, Logic ICs, Proteus/Tinkercad)
-- Solving real-world problems through **automation and digital solutions**
+🔐 Founder & President: [Cyber Vanguard](https://www.cybervanguard.club.et) — empowering students with CTFs, training, and security awareness.
+
+### 💡 What I love doing:
+
+- 🌐 Full-stack development: HTML, CSS, JavaScript, Python, PHP
+
+- 🔒 Cybersecurity: Ethical hacking, picoCTF, secure networking
+
+- ⚙️ Embedded systems & electronics: Arduino, Logic ICs, Proteus/Tinkercad
+
+- 🚀 Automating real-world tasks with digital solutions
+
+
 
 ---
 
@@ -26,13 +34,21 @@ Frameworks:   Django | Flask | Bootstrap
 Tools:        Git & GitHub | Linux | VMware | Wireshark | MySQL | Excel Online | OneDrive API
 Hardware:     Arduino | Logic ICs | Sensors | Breadboard & Components
 ```
+## 📜 Certifications
 
+✅ Cisco Certified Network Associate (CCNA)
 
-🌍 My Vision
+✅ picoCTF Achievements
+
+✅ Google IT Support Fundamentals (Coursera)
+
+✅ Cybersecurity Awareness Training (Cyber Vanguard Club)
+
+## 🌍 My Vision
 
     "To lead Ethiopia’s transition to a digital future by building secure, innovative, and inclusive technology solutions."
 
-📬 Let's Connect
+## 📬 Let's Connect
 
     📧 Email: mahizeki037@gmail.com
 
@@ -48,3 +64,6 @@ Hardware:     Arduino | Logic ICs | Sensors | Breadboard & Components
 
     "Security is not a product, but a process." – Bruce Schneier
     "The best way to predict the future is to invent it." – Alan Kay
+
+🙌 Thanks for stopping by! Let’s build, secure, and inspire together.
+
