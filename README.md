@@ -10,7 +10,7 @@ I’m Mahi Zeki — a driven technologist, aspiring cybersecurity expert, and bu
 
 🎓 Student: Electrical & Computer Engineering @ CTBE, Addis Ababa University
 
-🔐 Founder & President: [Cyber Vanguard](https://www.cybervanguard.club.et) — empowering students with CTFs, training, and security awareness.
+🔐 Founding member & President: [Cyber Vanguard](https://www.cybervanguard.club.et) — empowering students with CTFs, training, and security awareness.
 
 ### 💡 What I love doing:
 
